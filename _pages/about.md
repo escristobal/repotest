@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- Computer Science major and Mathematics minor at Washington State University with a passion for Software Engineering, AI & ML, and Cybersecurity.  
+- Computer Science major with a Mathematics minor at Washington State University with a passion for Software Engineering, AI & ML, and Cybersecurity.  
 - Experienced in full-stack development, simulation modeling, and data-driven applications.  
 - Skilled in C, C++, C#, Python, JavaScript, Flask, SQLite, HTML/CSS, and Linux environments.  
 - Enjoy mentoring students, exploring 3D modeling and simulations, and experimenting with new technologies to solve real-world problems.  
