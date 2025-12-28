@@ -50,10 +50,10 @@ Projects
 Education
 ======
 **Bachelor of Science in Computer Science**  
-**Minor:** Mathematics 
+**Minor in Mathematics**                  
 Washington State University, Pullman, WA  
-**GPA:** 3.2 | December 2025  
-Key Topics: Software Engineering, Cybersecurity, Artificial Intelligence, Computer Graphics
+**GPA:** 3.2 | **December 2025**  
+Focus Areas: Software Engineering, AI & ML, Computer Graphics
 
 Skills
 ======
