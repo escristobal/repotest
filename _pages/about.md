@@ -61,7 +61,7 @@ Skills
 **Security & Networking Tools:** nmap, Metasploit, Wireshark, John The Ripper  
 **3D Tools:** Autodesk Maya, Blender, Unity
 
-Experience
+Other Experience
 ======
 **Voiland Peer Network Mentor / VCEA** – August 2024 – May 2025  
 - Mentored first-year and transfer students to ease their transition into campus life and academics.  
