@@ -23,7 +23,7 @@ repository               : "repotest.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   name             : "Cristobal Escobar"
   pronouns         : # example: "she/her"  
   bio              : "B.S. in Computer Science"
