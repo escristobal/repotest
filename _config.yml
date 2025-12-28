@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+_# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -23,7 +23,7 @@ repository               : "repotest.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "new_profile.png"
   name             : "Cristobal Escobar"
   pronouns         : # example: "she/her"  
   bio              : "B.S. in Computer Science"
